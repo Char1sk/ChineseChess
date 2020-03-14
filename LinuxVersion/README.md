@@ -1,6 +1,5 @@
 # Linux版本中国象棋
 ## 注意
-- 采用UTF-8编码
 - 头文件在include文件夹下
 - 源文件在src文件夹下
 - CMake产生文件请放在build文件夹下
